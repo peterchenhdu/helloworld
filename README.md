@@ -1,9 +1,9 @@
 # helloworld
 Spring Boot &amp; Spring IO Platform Example.
 
-######package
+###package
 mvn package
 
-######run
+###run
 mvn spring-boot:run     <br/> 
 java -jar target/helloworld-0.0.1-SNAPSHOT.jar
